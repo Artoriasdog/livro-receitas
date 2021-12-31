@@ -1,6 +1,6 @@
 # Livro de Receitas :cake:
 
-Olá, venham ver as receitas que irão adiantar seu encontro com o capeta
+Olá, venham ver as receitas sensacionais de quem tá aprendendo a usar o git e o github :happy:
 
 
 
