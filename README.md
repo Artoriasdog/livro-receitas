@@ -4,5 +4,5 @@ Olá, venham ver as receitas sensacionais de quem tá aprendendo a usar o git e 
 
 
 
-- Strogonoff
-- Miojo Turma da Mônica sabor caldinho de feijão hmmmm
+- Strogonoff (copiei do Tudo Gostoso)
+- Miojo Turma da Mônica sabor caldinho de feijão
